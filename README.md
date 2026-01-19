@@ -63,5 +63,15 @@ Reservoir Computing was chosen as the primary approach due to:
 ---
 
 ## Notes
+## Implementation Status
+The original implementation for this project was developed as part of an academic final-year project.
+
+This repository currently focuses on:
+- Problem formulation
+- Methodology
+- Model comparison and results
+
+A cleaned and reproducible code implementation may be added in a future iteration.
+
 This repository is intended for **academic and demonstration purposes**.
 The implementation reflects the original project’s approach while focusing on clarity and reproducibility rather than full-scale deployment.
